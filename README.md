@@ -32,3 +32,8 @@ skill_platform = "Codewars"
 def current_flow():
     return "Nurturing growth, one line at a time."
 ```
+
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/0e874acf-3cf7-48f4-8b65-63fd040b15bb/thumbnail" >
+</p>
