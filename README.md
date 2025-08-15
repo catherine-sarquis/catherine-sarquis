@@ -17,18 +17,20 @@ Here are some ideas to get you started:
 
 
 ```python
-# My Learning Journey
-alumni_of = "School of Code" 
 
-# Currently cultivating skills:
-in_progress = "SheCodes Bootcamp"
-next_up = "Codecademy Full Stack Developer Bootcamp"
-deep_dive = "Boot.dev Backend Development Course"
+                    _(_)_                          wWWWw   _
+        @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+       @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+        @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+         /      Y       \|    \|/    /(_)    \|      |/      |
+      \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+  jgs \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-# Consistent practice:
-daily_commitment = "#100DaysOfCode"
-skill_platform = "Codewars"
+# Sprouting:
+flashcard app = "designed to help language learners blossom with new vocab"
 
-def current_flow():
-    return "Nurturing growth, one line at a time."
+# What's in bloom?:
+my skills = "JavaScript, React, Python"
+
 ```
