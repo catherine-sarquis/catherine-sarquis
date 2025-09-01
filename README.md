@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 # Sprouting:
-flashcard app = "designed to help language learners blossom with new vocab"
+language-lift = "a flashcard app designed to help language learners blossom with new vocab"
 
 # What's in bloom?:
 my skills = "JavaScript, React, Python"
